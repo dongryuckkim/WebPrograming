@@ -1,3 +1,5 @@
+import '../imports/ui/body.js';
+
 Router.configure({
   layoutTemplate: "layout",
   loadingTemplate: "loading",
